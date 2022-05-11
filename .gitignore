@@ -1,0 +1,2 @@
+# Ignora archivos tipo csv, para evitar la subida de archivos innecesarios. 
+*.csv
